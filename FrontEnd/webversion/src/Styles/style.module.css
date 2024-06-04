@@ -7,10 +7,20 @@
 }
 
 .li_item {
-    @apply w-28 h-8 bg-emerald-400 rounded-lg text-white text-center 
+    @apply w-28 h-8 bg-emerald-400 rounded-lg text-white
     hover:bg-emerald-700 transition-colors ease-in-out duration-500 px-4 mx-4
 }
 
 .a_bth {
-    @apply w-28 h-8 text-white transition-colors ease-in-out 
+    @apply flex align-middle justify-center relative top-[2px]
+}
+
+/* main content */
+
+.section_about {
+    @apply w-[80%] h-[648px] bg-slate-400/20  m-auto top-36 relative border-solid rounded-xl
+}
+
+.image {
+    @apply w-[40%] h-[360px] bg-slate-400/20  top-44 mx-[10%] relative border-solid rounded-xl flex flex-row
 }

@@ -17,6 +17,10 @@ export function Layout() {
             </header>
 
             <Outlet />
+
+            <footer className={styles.footer_site}>
+                <div className=""></div>
+            </footer>
         </>
     );
 }

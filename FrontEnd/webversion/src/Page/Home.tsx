@@ -1,7 +1,10 @@
-
+import styles from '../Styles/style.module.css'
 export function HomePage() {
-
     return (
-        <section></section>
+        <>
+        <section className={styles.section_about}>
+            <div className=""></div>
+        </section>        
+        </>
     );
 }
