@@ -1,0 +1,14 @@
+{
+  "name": "sewconnect",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": ""
+  },
+  "author": "Weronnip",
+  "license": "ISC",
+  "dependencies": {
+    "tsx": "^4.11.0"
+  }
+}

@@ -1,0 +1,16 @@
+.header_site {
+    @apply w-[80%] bg-slate-200 h-28 fixed left-[10%] border-solid rounded-b-3xl flex justify-center
+}
+
+.nav_item {
+    @apply px-8 top-1 relative flex flex-row
+}
+
+.li_item {
+    @apply w-28 h-8 bg-emerald-400 rounded-lg text-white text-center 
+    hover:bg-emerald-700 transition-colors ease-in-out duration-500 px-4 mx-4
+}
+
+.a_bth {
+    @apply w-28 h-8 text-white transition-colors ease-in-out 
+}
