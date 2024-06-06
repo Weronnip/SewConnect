@@ -25,3 +25,8 @@
 .block_content {
     @apply ml-[30px] bg-slate-400 w-96 h-96 static my-12 mx-1 rounded-xl inline-block
 }
+
+/* footer site */
+.footer_site {
+    @apply w-full h-[350px] bg-slate-600 relative mt-40 top-auto
+}
