@@ -1,6 +1,6 @@
 .header_site {
-    @apply w-[80%] bg-slate-200 h-28 fixed left-[10%] border-[3px]
-    rounded-b-3xl flex justify-center z-40 border-b-emerald-800 drop-shadow-xl
+    @apply w-[80%]  h-28 absolute left-[10%]
+    rounded-b-3xl flex justify-center z-40 drop-shadow-xl
 }
 
 .nav_item {
@@ -8,7 +8,7 @@
 }
 
 .li_item {
-    @apply w-28 h-8 bg-emerald-400 rounded-lg text-white
+    @apply w-32 h-8 bg-emerald-400 rounded-lg text-white
     hover:bg-emerald-700 transition-colors ease-in-out duration-500 px-4 mx-4
 }
 

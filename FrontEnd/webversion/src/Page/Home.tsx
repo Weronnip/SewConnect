@@ -1,4 +1,5 @@
 import styles from '../Styles/style.module.css'
+
 export function HomePage() {
     return (
         <>
@@ -7,7 +8,6 @@ export function HomePage() {
                 <div className={styles.block_content}></div>
                 <div className={styles.block_content}></div>
                 <div className={styles.block_content}></div>
-
                 <div className={styles.block_content}></div>
                 <div className={styles.block_content}></div>
                 <div className={styles.block_content}></div>
