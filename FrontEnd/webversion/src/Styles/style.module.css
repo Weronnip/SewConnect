@@ -19,7 +19,7 @@
 /* main content */
 
 .section_one {
-    @apply w-[90%] h-[992px] bg-slate-600/15 mx-auto top-24 relative border-solid rounded-xl bg-fixed
+    @apply w-[90%] h-[710px] bg-slate-600/15 mx-auto top-24 relative border-solid rounded-xl bg-fixed
 }
 
 .cards {
